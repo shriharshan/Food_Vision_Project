@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/shriharshan/Food_Vision_Project.git
 cd your-repo 
 ```
 
